@@ -1,12 +1,12 @@
-Bu kitapla birlikte tarihsel gelişimle birlikte programlama mantığının yapısal programlamaya geçişi sürecini de içerecek şekilde yazılımım gelişme süreci anlatılmıştır.
+C# Programlama Dili ile Nesne Yönelimli Programlama
 
-Yapısal programlamanın en çok uygulandığı Pascal dilidir. Pascal diline yakın zamanda ortaya çıkan C dili, kısa sürede sistem dili olarak tarihte yerini almıştır. Günümüzde sistem programlama ve yüksek hız gerektiren gömülü sistemlerde vazgeçilmez bir dil olmuştur.
-Daha sonra C dilinden etkilenecek olan Java, C# gibi birçok nesne yönelimli programlama dili ve yapısal programlama üzerine kurulmuş dillerdir.  Birçok modern programlama diline esin kaynağı olan bu dilin özellikle bilgisayar mühendisleri tarafından bilinmesi gerekir.
+Nesne yönelimli programlama mantığını oluşturan kavramların programcıların kafasında aynı ışığı yakması için bu kitap hazırlanmıştır. Bu dilin eğitimini verecek tüm kişiler için serbestçe kullanılabilir.
 
-C# programlama dili ise Java gibi bir ara dil oluşturarak çalıştırılabilir kodun her platformda derlenmeden çalıştırılmasını hedefleyen ve programcının kurumsal yazılımları hızlıca geliştirmek için istenilen bileşenleri hazır olarak sunan kütüphanelere sahip bir saf nesne yönelimli programlama dilidir. Yüksek performans isteyen kurumsal yazılım projelerde çokça kullanılmaktadır.
-Nesne yönelimli programlama mantığını oluşturan kavramların programcıların kafasında aynı ışığı yakması için bu kitap hazırlanmıştır. 
+Amacım Türkçe düşünen ve konuşan öğrencilerimize kavramları doğru bir şekilde aktarmaktır. Kavramlar, yeri geldikçe bölümlere eklenmis ve detaydan kaçınılmıştır.
 
-Bu dilin eğitimini verecek tüm kişiler için serbestçe kullanılabilir. 
+Bu kitap kâr amacı güdülmeden hazırlanmıştır ve referans gösterilerek her yerde kullanılabilir.
+
+Kitabı okuyan, kullanan tüm kişilerin zorlandıkları ve eksik gordüğü alanlar için geri dönüşlerinizi ve katkılarınızı bekler iyi çalışmalar dilerim.
 
 İlhan ÖZKAN
 ilhanozkan[at]outlook.com
