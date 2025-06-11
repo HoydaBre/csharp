@@ -1,5 +1,4 @@
-C# Programlama Dili ile Nesne Yönelimli Programlama ve Varlık Çerçevesi
-(C# with OOP and Entity Framework)
+C# Programlama Dili ile Nesne Yönelimli Programlama ve Entity Framework
 
 Nesne yönelimli programlama mantığını oluşturan kavramların programcıların kafasında aynı ışığı yakması için bu kitap hazırlanmıştır.
 
